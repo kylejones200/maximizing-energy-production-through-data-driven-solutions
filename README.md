@@ -11,14 +11,7 @@ Data-driven solutions for energy production refer to the use of data analysis to
 
 Data-driven solutions involve collecting and analyzing large volumes of data to identify patterns and trends that can optimize energy production. This data can come from various sources, such as equipment performance data, weather data, and energy consumption data. The data is analyzed using advanced analytics techniques such as machine learning, artificial intelligence, and predictive modeling.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
